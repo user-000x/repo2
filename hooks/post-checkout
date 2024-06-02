@@ -1,2 +1,2 @@
 #!/bin/sh
-echo 'Post-checkout hook triggered'
+echo "Post-checkout hook triggered in $MAIN_REPO"
