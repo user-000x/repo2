@@ -1,2 +1,2 @@
 #!/bin/sh
-ln -sf ../repo1/hooks .git/hooks
+ln -sf ../$MAIN_REPO/hooks .git/hooks
